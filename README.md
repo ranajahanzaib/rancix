@@ -4,6 +4,8 @@
 
 An opensource streaming platform built using ReactJS & Google Firebase.
 
+![Image](./preview-large.png)
+
 ## Contributing
 
 We'd love to accept your patches and contributions to this project. There are just a few guidelines you need to follow.
